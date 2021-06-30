@@ -32,3 +32,69 @@ Conclusion
 	I believe a value proposition implementation project would allow both teams to determine if collaborating on offerings would be mutually beneficial for both parties. 
 
  In order to effectively and efficiently test this theory, I propose a charter be drafted similar to the charter I have provided identifying the relative problem statement and goals would be the next step in the process. Once I receive the charter I can combine them into a complete project charter and schedule a meeting to discuss the project further.
+
+Create Project Charters for:
+Scaling Company
+____________________________
+Infrastructure
+____________________________
+- Key Resources
+- - Human Resources
+- - - Operational Tools
+- Key Activities
+- - Business Processes
+- - - Sales
+- - - Collections
+- - - Service Delivery
+- - - Recruitment 
+
+____________________________
+Offer
+____________________________
+Current:
+- Web Services 
+- - Website Development 
+- - Website Design
+- - Website Management
+- - SEO
+- Domain Services 
+- - Registration and Transfer
+- - Hosting
+- - Security
+- - Email
+- - Marketing
+
+Future:
+- LSS Services 
+- - Process Improvement
+- - Process Design
+- - Process Redesign
+- - Infrastructure Implementation
+- Business Consulting
+- - Digital Solutions
+- - Customer Relationship Management
+- - Business Organization
+____________________________
+Customers
+____________________________
+- Segments
+- Channels
+- Relationships
+
+____________________________
+Finance
+____________________________
+- Cost Structure
+- - Contractors
+- - Software
+- - Employees 
+- - Office Supplies
+- - Equipment
+- Revenue Streams 
+Current:
+- GoDaddy Reseller
+- WordPress Design
+- - - - WordPress Management
+Future:
+- Wix Marketplace 
+- Lead Generation Websites 
